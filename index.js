@@ -26,3 +26,4 @@ async function pegaArquivo(caminhoDoArquivo) {
 }
 
 export default pegaArquivo;
+
